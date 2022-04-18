@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "PVrmu7vj9QkC/b9hm8f86vpT/ha6Kae3T1Yz1pvk4cqCvoLlz3JeCSz9DvzolRZzeCSo+2B5aUTiLYIH7/+L8g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mborges\\source\\repos\\AddDataOnMemory\\AddDataOnMemory\\AddDataOnMemory.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mborges\\.nuget\\packages\\memorycachelibrary\\1.0.1\\memorycachelibrary.1.0.1.nupkg.sha512",
+    "C:\\Users\\mborges\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\6.0.0\\microsoft.extensions.caching.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\mborges\\.nuget\\packages\\microsoft.extensions.caching.memory\\6.0.1\\microsoft.extensions.caching.memory.6.0.1.nupkg.sha512",
+    "C:\\Users\\mborges\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\mborges\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\mborges\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\mborges\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\mborges\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
